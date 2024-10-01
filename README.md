@@ -1,1 +1,1 @@
-R codes used in the article titled: G-computation 
+R codes used in the article titled: G-computation for incre
